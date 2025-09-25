@@ -34,6 +34,14 @@ hf_ackermann/
   tests/
     test_l4_smoke.py             # OK/DONE/TELEM smoke (auto‑skip if no Teensy)
     test_l4_fault.py             # L4 disconnect → auto‑reconnect (mocked)
+  RC_firmware_simple/            # Embedded system code
+    RC_firmware_simple.ino
+    RcBasicCtr.cpp
+    RcBasicCtr.h
+    RcCompCtr.cpp
+    RcCompCtr.h
+    RcLinkSimple.cpp
+    RcLinkSimple.h
 scripts/
   run_stub_oakd.sh               # safe preview (no motion)
   run_live_oakd.sh               # hardware‑in‑loop (wheels‑up first!)

@@ -3,6 +3,10 @@
 > **v2 of the human‑following Ackermann robot.** On‑camera perception with **OAK‑D Pro W** (Spatial MobileNet‑SSD), lightweight **IOU DeepSORT** tracking, and a robust layered control stack (L5 decision FSM on Jetson, L4 ASCII serial to Teensy 4.1). Safe **stationary SEARCH/RECOVER**, preview **RGB + Depth**, and runtime‑tunable steering.
 
 ---
+![Final_look](https://github.com/user-attachments/assets/3277ec85-bf67-417c-a71d-a9925d7886df)
+
+https://github.com/user-attachments/assets/c350c275-c0d9-4812-8b06-1a35ac1b5258
+---
 
 ## ✨ Highlights
 - **On‑device vision** (OAK‑D Pro W): RGB, StereoDepth (aligned), MobileNet **Spatial** detection (x,y,z in m)

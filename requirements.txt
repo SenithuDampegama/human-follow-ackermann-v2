@@ -1,0 +1,8 @@
+depthai
+blobconverter
+pyserial
+opencv-python
+numpy
+# optional:
+# deep-sort-realtime
+
